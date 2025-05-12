@@ -32,7 +32,7 @@ Matplotlib, Seaborn, Plotly – Data visualization
 Scikit-learn – Machine learning algorithms and model evaluation
 
 
-Colab Notebook – Interactive analysis
+Jupyter Notebook – Interactive analysis
 
 
 📊 Key Features in the Dataset
@@ -42,7 +42,7 @@ User ID and behavioral patterns
 
 Payment methods and account types
 
-Device and browser metadata
+Device Types
 
 🔍 Exploratory Data Analysis
 The EDA phase involves:
